@@ -1,16 +1,25 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm AmIrReZa</h1>
+<h3 align="center">
+    FiveM Lua Dev & Web Dev (Backend & Frontend)
+</h3>
 
-<!--
-**AmIrReZa386/AmIrReZa386** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📱 FiveM Lua Dev (3 Year 😘)
 
-Here are some ideas to get you started:
+<a href="https://github.com/AmIrReZa386">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AmIrReZa386&show_icons=true&theme=cobalt&include_all_commits=true" alt="AhmadZare's github stats" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h4 align="center">Discord Status :</h4>
+<p align="center">
+<img align="center" src="https://discord.c99.nl/widget/theme-4/783576714852171797.png" />
+</p>
+<p align="center">
+</p>
+
+<h4 align="center">Statistics :</h4>
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmIrReZa386&hide=html,css&layout=compact&theme=synthwave" />
+</p>
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=AmIrReZa386&layout=compact&theme=synthwave" />
+</p>
