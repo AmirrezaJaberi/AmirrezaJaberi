@@ -16,9 +16,9 @@
 
 <h4 align="center">Statistics :</h4>
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmIrReZa386&hide=html,css&layout=compact&theme=synthwave" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmIrReZa386&hide=html,css&layout=compact&theme=highcontrast" />
 </p>
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=AmIrReZa386&layout=compact&theme=synthwave" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=AmIrReZa386&layout=compact&theme=highcontrast" />
 </p>
