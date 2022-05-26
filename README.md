@@ -5,8 +5,9 @@
 
 - 📱 FiveM Lua Dev (3 Year 😘)
 
-![Metrics](https://metrics.lecoq.io/Ahmadzare?template=classic&activity=1&languages=1&activity.limit=5&activity.days=300&activity.filter=all&activity.visibility=all&activity.timestamps=false&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FTehran&config.twemoji=true)
-
+<p align="center">
+<img align="center" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=AmIrReZa386&hide=html,css&layout=compact&theme=synthwave](https://metrics.lecoq.io/Ahmadzare?template=classic&activity=1&languages=1&activity.limit=5&activity.days=300&activity.filter=all&activity.visibility=all&activity.timestamps=false&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FTehran&config.twemoji=true)" />
+</p>
 
 <h4 align="center">Discord Status :</h4>
 <p align="center">
@@ -19,6 +20,7 @@
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmIrReZa386&hide=html,css&layout=compact&theme=synthwave" />
 </p>
+
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=AmIrReZa386&layout=compact&theme=synthwave" />
 </p>
