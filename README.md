@@ -5,9 +5,8 @@
 
 - 📱 FiveM Lua Dev (3 Year 😘)
 
-<a href="https://github.com/AmIrReZa386">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AmIrReZa386&show_icons=true&theme=cobalt&include_all_commits=true" alt="AhmadZare's github stats" />
-</a>
+![Metrics](https://metrics.lecoq.io/Ahmadzare?template=classic&activity=1&languages=1&activity.limit=5&activity.days=300&activity.filter=all&activity.visibility=all&activity.timestamps=false&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FTehran&config.twemoji=true)
+
 
 <h4 align="center">Discord Status :</h4>
 <p align="center">
