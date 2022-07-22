@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm AmIrReZa</h1>
 <h3 align="center">
-    FiveM Lua Dev & Web Dev (Backend & Frontend)
+    FiveM Lua Dev
 </h3>
 
-- 📱 FiveM Lua Dev (3 Year 😘)
 
 <h4 align="center">Discord Status :</h4>
 <p align="center">
