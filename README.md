@@ -3,7 +3,7 @@
 
 <br />
 
-I am a self taught developer in Iran <img src="./assist/logo.png"  height="27" width="27">
+I am a self taught developer in Iran <img src="./assist/iran.png"  height="27" width="27">
 <br />
 <br />
 <code><img height="30" alt="lua" src="./assist/lua.png"></code>
