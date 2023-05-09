@@ -43,13 +43,13 @@
 <div align="left">
     <div align="left">
         <h4>Top Repositories :
-        <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=AmirrezaJaberi&repo=FIREAC&theme=vision-friendly-dark" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AmirrezaJaberi&repo=FIREAC&theme=vision-friendly-dark" />
         </h4>
         <h4>Github stats :
-        <img align="left" src="https://github-readme-stats.vercel.app/api?username=AmirrezaJaberi&show_icons=true&include_all_commits=true&theme=vision-friendly-dark&hide_border=true" alt="AmIrReZa github stats"/>
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=AmirrezaJaberi&show_icons=true&include_all_commits=true&theme=vision-friendly-dark&hide_border=true" alt="AmIrReZa github stats"/>
         </h4>
         <h4>Discord profile :
-        <img align="left" src="https://discord.c99.nl/widget/theme-4/783576714852171797.png" alt="AmIrReZa discord status"/>
+        <img align="center" src="https://discord.c99.nl/widget/theme-4/783576714852171797.png" alt="AmIrReZa discord status"/>
         </h4>
     </div>
 </div>
