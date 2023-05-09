@@ -3,6 +3,6 @@
  
 <div align="center">
     <a herf="https://discord.gg/BGZWaFzaUP">
-        <img align="center" src="./assist/discord.png" width="25px">
+        <img align="center" src="./assist/discord.png" width="30px">
     </a>
 </div>
