@@ -15,6 +15,6 @@
 ## <img align="center" src="./assist/code.png" width="30px"> Web Development
 <div align="center">
     <a herf="https://en.wikipedia.org/wiki/HTML">
-        <img align="center" src="./assist/languages/html.png" width="30px">
+        <img align="center" src="./assist/languages/html.png">
     </a>
 </div>
