@@ -42,13 +42,14 @@
 ## <img align="center" src="./assist/icon/status.png" width="30px"> My Status
 <div align="center">
     <div align="center">
-        <h4>Top Repositories :</h4>
+        <h4>Top Repositories :
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AmirrezaJaberi&repo=FIREAC&theme=vision-friendly-dark" />
-        ------
-        <h4>Github stats :</h4>
+        </h4>
+        <h4>Github stats :
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=AmirrezaJaberi&show_icons=true&include_all_commits=true&theme=vision-friendly-dark&hide_border=true" alt="AmIrReZa github stats"/>
-        ------
-        <h4>Discord profile :</h4>
+        </h4>
+        <h4>Discord profile :
         <img align="center" src="https://discord.c99.nl/widget/theme-4/783576714852171797.png" alt="AmIrReZa discord status"/>
+        </h4>
     </div>
 </div>
