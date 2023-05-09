@@ -17,4 +17,7 @@
     <a herf="https://en.wikipedia.org/wiki/HTML">
         <img align="center" height="28px" src="./assist/languages/html.png">
     </a>
+        <a herf="https://en.wikipedia.org/wiki/CSS">
+        <img align="center" height="28px" src="./assist/languages/css.png">
+    </a>
 </div>
