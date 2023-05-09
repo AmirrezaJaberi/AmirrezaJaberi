@@ -23,7 +23,10 @@
     <a herf="https://en.wikipedia.org/wiki/JavaScript">
         <img align="center" height="28px" src="./assist/language/JavaScript.png">
     </a>
-        <a herf="https://en.wikipedia.org/wiki/Bootstrap_(front-end_framework)">
+    <a herf="https://en.wikipedia.org/wiki/Bootstrap_(front-end_framework)">
         <img align="center" height="28px" src="./assist/language/bootstrap.png">
+    </a>
+    <a herf="https://en.wikipedia.org/wiki/JQuery">
+        <img align="center" height="28px" src="./assist/language/jQuary.png">
     </a>
 </div>
