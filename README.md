@@ -39,7 +39,7 @@
     </a>
 </div>
 
-## My Status
+## <img align="center" src="./assist/icon/status.png" width="30px"> My Status
 <div align="center">
     <div align="center">
         <h4>Top Repositories :</h4>
