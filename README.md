@@ -14,6 +14,7 @@ I am a self taught developer in Iran <img src="./assist/iran.png"  height="15" w
 <code><img height="30" alt="css" src="./assist/css.png"></code>
 <code><img height="30" alt="js" src="./assist/javascripts.png"></code> 
 
+<div class="tenor-gif-embed" data-postid="11366012" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/waving-hi-hello-emoji-wave-gif-11366012">Waving Hi GIF</a>from <a href="https://tenor.com/search/waving-gifs">Waving GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><h4>My github status :</h4><img align="center" src="https://github-readme-stats.vercel.app/api?username=AmirrezaJaberi&show_icons=true&include_all_commits=true&theme=vision-friendly-dark&hide_border=true" alt="AmIrReZa github stats"/></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><h4>Most Used :</h4><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirrezaJaberi&layout=compact&theme=vision-friendly-dark&hide_border=true" /></a>
 | ------------- | ------------- |
