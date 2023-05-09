@@ -1,4 +1,6 @@
 <h2>Hi there 👋</h2>
+<img align="right" src="./assist/developer-vector.png" width='200'/>
+
  I'm Amirreza Jaberi, self taught in Iran
  
 <div align="center">
