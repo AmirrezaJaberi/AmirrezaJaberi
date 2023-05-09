@@ -5,4 +5,7 @@
     <a herf="https://discord.gg/BGZWaFzaUP">
         <img align="center" src="./assist/discord.png" width="30px">
     </a>
+    <a herf="https://www.instagram.com/dev.amirreza/">
+        <img align="center" src="./assist/instagram.png" width="30px">
+    </a>
 </div>
