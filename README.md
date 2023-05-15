@@ -48,7 +48,7 @@
         </h2>
         <h2>
         <h4>Github stats :</h4>
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=AmirrezaJaberi&show_icons=true&include_all_commits=true&theme=vision-friendly-dark&hide_border=true" alt="AmIrReZa github stats"/>
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=AmirrezaJaberi&show_icons=true&theme=radical" alt="AmIrReZa github stats"/>
         </h2>
         <h2>
         <h4>Discord profile :</h4>
