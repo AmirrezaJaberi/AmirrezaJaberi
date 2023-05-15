@@ -42,17 +42,13 @@
 ### <img align="center" src="./assist/icon/status.png" width="30px"> My Status
 <div align="left">
     <div align="left">
-        <h2>
-        <h4>Top languages :</h4>
-        <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AmirrezaJaberi&theme=github_dark" />
-        </h2>
-        <h2>
+        <h2 align="center">
         <h4>Github stats :</h4>
-        <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmirrezaJaberi&theme=github_dark"/>
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmirrezaJaberi&theme=github_dark"/>
         </h2>
-        <h2>
+        <h2 align="center">
         <h4>Discord profile :</h4>
-        <img align="center" src="https://discord.c99.nl/widget/theme-4/783576714852171797.png" alt="AmIrReZa discord status"/>
+        <img src="https://discord.c99.nl/widget/theme-4/783576714852171797.png" alt="AmIrReZa discord status"/>
         </h2>
     </div>
 </div>
