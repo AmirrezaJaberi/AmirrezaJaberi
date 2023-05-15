@@ -43,12 +43,12 @@
 <div align="left">
     <div align="left">
         <h2>
-        <h4>Wakatime Week :</h4>
-        <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=AmirrezaJaberi&layout=compact" />
+        <h4>Top languages :</h4>
+        <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AmirrezaJaberi&theme=github_dark" />
         </h2>
         <h2>
         <h4>Github stats :</h4>
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=AmirrezaJaberi&show_icons=true&theme=chartreuse-dark&count_private=true" alt="AmIrReZa github stats"/>
+        <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmirrezaJaberi&theme=github_dark"/>
         </h2>
         <h2>
         <h4>Discord profile :</h4>
