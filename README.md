@@ -44,7 +44,7 @@
     <div align="left">
         <h2>
         <h4>Wakatime Week :</h4>
-        <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=AmirrezaJaberi&layout=compact&theme=chartreuse-dark" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=AmirrezaJaberi&layout=compact" />
         </h2>
         <h2>
         <h4>Github stats :</h4>
