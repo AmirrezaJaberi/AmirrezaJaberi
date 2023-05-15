@@ -43,12 +43,12 @@
 <div align="left">
     <div align="left">
         <h2>
-        <h4>Top Repositories :</h4>
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AmirrezaJaberi&repo=FIREAC&theme=vision-friendly-dark" />
+        <h4>Most Used Languages  :</h4>
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirrezaJaberi&hide_progress=false&theme=chartreuse-dark" />
         </h2>
         <h2>
         <h4>Github stats :</h4>
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=AmirrezaJaberi&show_icons=true&theme=radical" alt="AmIrReZa github stats"/>
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=AmirrezaJaberi&show_icons=true&theme=chartreuse-dark" alt="AmIrReZa github stats"/>
         </h2>
         <h2>
         <h4>Discord profile :</h4>
