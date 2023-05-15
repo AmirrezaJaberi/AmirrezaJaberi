@@ -39,7 +39,7 @@
     </a>
 </div>
 
-### <img align="center" src="./assist/icon/status.png" width="30px"> My Status
+## <img align="center" src="./assist/icon/status.png" width="30px"> My Status
 <div align="left">
     <div align="left">
         <div align="center">
