@@ -44,7 +44,7 @@
     <div align="left">
         <h2>
         <h4>Most Used Languages  :</h4>
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirrezaJaberi&hide_progress=false&theme=chartreuse-dark&count_private=true" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=AmirrezaJaberi&count_private=true" />
         </h2>
         <h2>
         <h4>Github stats :</h4>
