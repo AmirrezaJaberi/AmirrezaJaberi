@@ -48,7 +48,7 @@
         </div>
         <div align="center">
         <h4 align="center">Discord profile :</h4>
-        <img align="center" src="https://discord.c99.nl/widget/theme-4/783576714852171797.png" alt="AmIrReZa discord status"/>
+        <img align="center" src="https://discord.c99.nl/widget/theme-3/1025093032648900629.png" alt="AmIrReZa discord status"/>
         </div>
     </div>
 </div>
