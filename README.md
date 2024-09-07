@@ -17,23 +17,23 @@
 <h2><img align="center" src="./assist/icon/code.png" width="30px" alt="Code Icon"> Web Development</h2>
 <div align="center">
     <a href="https://en.wikipedia.org/wiki/HTML" target="_blank">
-        <img align="center" height="28px" src="https://skillicons.dev/icons?i=html" alt="HTML">
+        <img align="center" width="40vh" src="https://skillicons.dev/icons?i=html" alt="HTML">
     </a>
     <a href="https://en.wikipedia.org/wiki/CSS" target="_blank">
-        <img align="center" height="28px" src="https://skillicons.dev/icons?i=css" alt="CSS">
+        <img align="center" width="40vh" src="https://skillicons.dev/icons?i=css" alt="CSS">
     </a>
     <a href="https://en.wikipedia.org/wiki/JavaScript" target="_blank">
-        <img align="center" height="28px" src="https://skillicons.dev/icons?i=js" alt="JavaScript">
+        <img align="center" width="40vh" src="https://skillicons.dev/icons?i=js" alt="JavaScript">
     </a>
     <a href="https://en.wikipedia.org/wiki/PHP" target="_blank">
-        <img align="center" height="28px" src="https://skillicons.dev/icons?i=php" alt="PHP">
+        <img align="center" width="40vh" src="https://skillicons.dev/icons?i=php" alt="PHP">
     </a>
     <br>
     <a href="https://en.wikipedia.org/wiki/Bootstrap_(front-end_framework)" target="_blank">
-        <img align="center" height="28px" src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap">
+        <img align="center" width="40vh" src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap">
     </a>
     <a href="https://en.wikipedia.org/wiki/JQuery" target="_blank">
-        <img align="center" height="28px" src="https://skillicons.dev/icons?i=jquery" alt="JQuery">
+        <img align="center" width="40vh" src="https://skillicons.dev/icons?i=jquery" alt="JQuery">
     </a>
 </div>
 
@@ -41,10 +41,10 @@
 <h2><img align="center" src="./assist/icon/code.png" width="30px" alt="Code Icon"> Software Development</h2>
 <div align="center">
     <a href="https://en.wikipedia.org/wiki/Python_(programming_language)" target="_blank">
-        <img align="center" height="28px" src="https://skillicons.dev/icons?i=py" alt="Python">
+        <img align="center" width="40vh" src="https://skillicons.dev/icons?i=py" alt="Python">
     </a>
     <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank">
-        <img align="center" height="28px" src="https://skillicons.dev/icons?i=cpp" alt="C++">
+        <img align="center" width="40vh" src="https://skillicons.dev/icons?i=cpp" alt="C++">
     </a>
 </div>
 
@@ -52,7 +52,7 @@
 <h2><img align="center" src="./assist/icon/code.png" width="30px" alt="Code Icon"> Game Development</h2>
 <div align="center">
     <a href="https://en.wikipedia.org/wiki/Lua_(programming_language)" target="_blank">
-        <img align="center" height="28px" src="https://skillicons.dev/icons?i=lua" alt="Lua">
+        <img align="center" width="40vh" src="https://skillicons.dev/icons?i=lua" alt="Lua">
     </a>
 </div>
 
