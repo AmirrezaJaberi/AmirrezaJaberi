@@ -62,5 +62,5 @@
     <h4>Github status :</h4>
     <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmirrezaJaberi&theme=github_dark" alt="Github Profile Summary">
     <h4>Discord profile :</h4>
-    <img align="center" src="https://discord.c99.nl/widget/theme-3/1025093032648900629.png" alt="AmIrReZa Discord Status">
+    <img align="center" src="https://discord.c99.nl/widget/theme-4/1025093032648900629.png" alt="AmIrReZa Discord Status">
 </div>
